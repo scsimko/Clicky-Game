@@ -1,4 +1,4 @@
-##Cleveland Browns - Clicky Game
+# Cleveland Browns - Clicky Game
 
 Cleveland Browns - Clicky Game is a memory game with React.
 
