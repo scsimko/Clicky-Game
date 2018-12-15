@@ -15,14 +15,14 @@ class Main extends React.Component {
   shuffle = (array) => {
     var currentIndex = array.length, temporaryValue, randomIndex;
 
-    // While there remain elements to shuffle...
+    // shuffle
     while (0 !== currentIndex) {
 
-      // Pick a remaining element...
+      // Pick 
       randomIndex = Math.floor(Math.random() * currentIndex);
       currentIndex -= 1;
 
-      // And swap it with the current element.
+      // swap 
       temporaryValue = array[currentIndex];
       array[currentIndex] = array[randomIndex];
       array[randomIndex] = temporaryValue;
