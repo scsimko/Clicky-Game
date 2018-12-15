@@ -11,7 +11,7 @@ const Card = props => {
         alt={props.alt} 
         className="img-thumbnail"
         style={{
-          width: '150px',
+          width: '170px',
           margin: '1vw',
         }} 
       />

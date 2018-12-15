@@ -59,6 +59,22 @@ const images = [
       src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/wipanaxyt5gps6ml4yvv',
       alt: 'Rashard Higgins'
     },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/ofhxzdql1yxxyq3ug87y',
+        alt: 'Joel Bitonio'
+      },
+      {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/wgyzitmit5jmzq0j5edk',
+        alt: 'Austin Corbett'
+      },
+      {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/kali83acwgghreq18z2w',
+        alt: 'Kyle Kalis'
+      },
+    
   ]
   
   export default images;
