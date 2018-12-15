@@ -73,6 +73,21 @@ const images = [{
         src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/kali83acwgghreq18z2w',
         alt: 'Kyle Kalis'
     },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/mwsfib8or1y2tirjwihq',
+        alt: 'Ray-Ray Armstrong'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/qutptakkzgsaityhfhwd',
+        alt: 'Tanner Vallejo'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/coggkkinmrpjfcenww8d',
+        alt: 'Joe Schobert'
+    },
 
 ]
 
