@@ -9,6 +9,7 @@ const Nav = (props) => (
       <span><font color="#FF8C00">High Score : {props.highScore}</font></span>
     </span>
   </nav>
+  
 );
 
 export default Nav;
