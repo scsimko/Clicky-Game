@@ -88,7 +88,37 @@ const images = [{
         src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/coggkkinmrpjfcenww8d',
         alt: 'Joe Schobert'
     },
-
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/z9conhaa0hmgogmeggyx',
+        alt: 'Drew Stanton'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/kq8imwkill5tlstkvuhz',
+        alt: 'Tyrod Taylor'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/uekigcw3wdqnnjdkupna',
+        alt: 'Chad Thomas'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/ssgun2bxyk3z7nzgprkf',
+        alt: 'Daniel Ekuale'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/j5v6fcurydru1ut1bsfx',
+        alt: 'Jake Eldrenkamp'
+    },
+    {
+        clicked: false,
+        src: 'https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop_2x/f_auto/browns/wizyu3vjsb0iq7uymlyp',
+        alt: 'Brad Seaton'
+    },
+    
 ]
 
 export default images;
